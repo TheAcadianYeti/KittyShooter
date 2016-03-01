@@ -1,0 +1,4 @@
+3
+Sprites/Bullets/SpreadBullet/SPREAD_1.png
+Sprites/Bullets/SpreadBullet/SPREAD_2.png
+Sprites/Bullets/SpreadBullet/SPREAD_3.png

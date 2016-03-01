@@ -1,0 +1,4 @@
+3
+Sprites/Bullets/LaserBullet/LASER_1.png
+Sprites/Bullets/LaserBullet/LASER_2.png
+Sprites/Bullets/LaserBullet/LASER_3.png

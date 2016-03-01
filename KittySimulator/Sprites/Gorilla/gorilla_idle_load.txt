@@ -1,0 +1,6 @@
+5
+Sprites/Gorilla/GORILLA_BLA_1.png
+Sprites/Gorilla/GORILLA_BLA_2.png
+Sprites/Gorilla/GORILLA_BLA_3.png
+Sprites/Gorilla/GORILLA_BLA_4.png
+Sprites/Gorilla/GORILLA_BLA_5.png

@@ -1,0 +1,4 @@
+3
+Sprites/Koi/KOI_1.png
+Sprites/Koi/KOI_2.png
+Sprites/Koi/KOI_3.png

@@ -1,0 +1,3 @@
+2
+Sprites/ScratchPost/SCRATCH_POST_1.png
+Sprites/ScratchPost/SCRATCH_POST_2.png

@@ -1,0 +1,2 @@
+1
+Sprites/UndercoverMouse/BOSS_UNDERCOVER_MOUSE.png

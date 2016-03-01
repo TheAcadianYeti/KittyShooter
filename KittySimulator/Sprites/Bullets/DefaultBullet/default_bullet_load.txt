@@ -1,0 +1,3 @@
+2
+Sprites/Bullets/DefaultBullet/DEFAULT_BULLET_1.png
+Sprites/Bullets/DefaultBullet/DEFAULT_BULLET_2.png
